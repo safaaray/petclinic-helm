@@ -1,4 +1,4 @@
 image:
-  repository: "spring-petclinic"
+  repository: "ghcri.io/safaaray/spring-petclinic"
 
 replicas: 1
